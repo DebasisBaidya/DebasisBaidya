@@ -33,9 +33,10 @@
   <a href="https://github.com/DebasisBaidya?tab=stars">
     <img src="https://img.shields.io/github/stars/DebasisBaidya?label=Stars&style=for-the-badge&logo=github" />
   </a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya&style=for-the-badge" />
+  <a href="https://github.com/DebasisBaidya">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 4px;" />
+  </a>
 </p>
-
 ---
 
 <h2 align="center">🛠️ Tech & Tools</h2>
