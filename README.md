@@ -26,8 +26,7 @@
   <a><img src="https://img.shields.io/badge/Google%20Forms-Pre--Filled-4285F4?logo=googleforms&logoColor=white&style=flat-square" /></a>
 </p>
 
-
----
+<p align="center">🌟🌟🌟🌟🌟</p>
 
 <h2 align="center">📬 Connect with Me</h2>
 
@@ -52,7 +51,7 @@
   </a>
 </p>
 
----
+<p align="center">🌟🌟🌟🌟🌟</p>
 
 <h2 align="center">🧠 Learning & Building</h2>
 
@@ -62,7 +61,7 @@
   📚 Post Graduate Program in Data Science, AI & ML (DigiCrome)
 </p>
 
----
+<p align="center">🌟🌟🌟🌟🌟</p>
 
 <p align="center">
   🙏 Thanks for visiting my GitHub!<br>
