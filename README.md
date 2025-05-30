@@ -16,8 +16,13 @@
   <img src="https://img.shields.io/badge/Google%20Sheets-Automation-34A853?logo=googlesheets&logoColor=white&style=flat-square" /> 
   <img src="https://img.shields.io/badge/Apps%20Script-Google-4285F4?logo=google&logoColor=white&style=flat-square" /> 
   <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/PowerPoint-Infographics-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Canva-Designing-00C4CC?logo=canva&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Looker%20Studio-Reports-4285F4?logo=looker&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Sites-Intranet-34A853?logo=google&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Forms-Pre--Filled-4285F4?logo=googleforms&logoColor=white&style=flat-square" />
 </p>
-
 
 ---
 
@@ -32,9 +37,9 @@
   </a>
   <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
-    <a href="https://github.com/DebasisBaidya">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 4px;" />
   </a>
+  <a href="https://github.com/DebasisBaidya">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 4px;" />
   </a>
   <a href="https://github.com/DebasisBaidya">
     <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=for-the-badge&logo=github" />
