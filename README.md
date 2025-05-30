@@ -15,6 +15,8 @@
 
 ---
 
+<h2 align="center">📬 Connect with Me</h2>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
@@ -33,7 +35,6 @@
   </a>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya&style=for-the-badge" />
 </p>
-
 
 ---
 
@@ -62,5 +63,5 @@
 
 <p align="center">
   🙏 Thanks for visiting my GitHub!<br>
-  ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
+  ⭐ You can say I thrive on solving problems and simplifying the complex — always learning, always building.
 </p>
