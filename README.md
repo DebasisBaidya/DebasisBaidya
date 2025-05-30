@@ -1,36 +1,21 @@
-### 👋 Hi, I'm Debasis Baidya
-
-🚀 Automation-Focused MIS Leader | 💻 Data Analyst | 📊 Aspiring Data Scientist
-
-With 11+ years of experience in MIS & Data Management, I've transformed time-consuming manual workflows into efficient, automated systems—freeing up 80% of teams' time to focus on strategic growth. I'm currently diving deep into the world of Data Science through real-world projects in EDA, ML, DL & NLP.
-
-🔧 My favorite tools: Python | SQL | Power BI | Google Sheets + Apps Script | Streamlit  
-🔍 I love solving problems, building tools, and visualizing actionable insights.
-
----
-
-### 📬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/debasisbaidya)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_me-red?logo=gmail)](mailto:speak2debasis@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
-[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya)](https://github.com/DebasisBaidya)
-[![GitHub Followers](https://img.shields.io/github/followers/DebasisBaidya?style=social)](https://github.com/DebasisBaidya)
-[![GitHub Stars](https://img.shields.io/github/stars/DebasisBaidya?style=social)](https://github.com/DebasisBaidya?tab=stars)
-
 <h1 align="center">👋 Hi, I'm Debasis Baidya</h1>
 
 <p align="center">
-  🚀 Automation-Focused MIS Leader | 💻 Data Analyst | 📊 Aspiring Data Scientist  
+  🚀 Automation-Focused MIS Leader | 💻 Data Analyst | 📊 Aspiring Data Scientist
 </p>
 
 <p align="center">
-  <strong>Transforming manual processes into smart, automated systems for over 11 years</strong>
+  <strong>Transforming manual processes into smart, automated systems for over 11 years</strong><br>
+  <i>Currently exploring real-world projects in EDA, ML, DL & NLP</i>
+</p>
+
+<p align="center">
+  🔧 Python | SQL | Power BI | Google Sheets + Apps Script | Streamlit  
 </p>
 
 ---
 
-### 📬 Connect with Me
+<h2 align="center">📬 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/debasisbaidya" target="_blank">
@@ -48,16 +33,16 @@ With 11+ years of experience in MIS & Data Management, I've transformed time-con
   <a href="https://github.com/DebasisBaidya?tab=stars">
     <img src="https://img.shields.io/github/stars/DebasisBaidya?label=Stars&style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/DebasisBaidya">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya&style=for-the-badge" />
+  <a href="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya">
+    <img src="https://img.shields.io/badge/Visitors-Live_Count-orange?style=for-the-badge&logo=github" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech & Tools
+<h2 align="center">🛠️ Tech & Tools</h2>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Python-Data_Science-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/SQL-Queries-informational?style=for-the-badge&logo=mysql" />
   <img src="https://img.shields.io/badge/Google_Sheets-Automations-green?style=for-the-badge&logo=google-sheets" />
@@ -68,14 +53,17 @@ With 11+ years of experience in MIS & Data Management, I've transformed time-con
 
 ---
 
-### 🧠 Learning & Building
+<h2 align="center">🧠 Learning & Building</h2>
 
-- 📈 Working on real-world projects in NLP, Forecasting, and Predictive Modeling
-- ⚙️ Automating internal systems with Apps Script + SQL
-- 📚 Pursuing Post Graduate Program in Data Science, AI & ML (DigiCrome)
+<p align="center">
+  📈 Real-world projects in NLP, Forecasting, and Predictive Modeling<br>
+  ⚙️ Automating internal systems with Apps Script + SQL<br>
+  📚 Post Graduate Program in Data Science, AI & ML (DigiCrome)
+</p>
 
 ---
 
-> 🙏 Thanks for visiting my GitHub! Feel free to check out my pinned projects or reach out to me directly!
-
-
+<p align="center">
+  🙏 Thanks for visiting my GitHub!<br>
+  ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
+</p>
