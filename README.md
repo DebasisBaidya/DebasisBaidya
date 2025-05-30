@@ -10,7 +10,12 @@
 </p>
 
 <p align="center">
-  🔧 Python | SQL | Power BI | Google Sheets + Apps Script | Streamlit  
+  🔧 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" /> 
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi&logoColor=black&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-Automation-34A853?logo=googlesheets&logoColor=white&style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Apps%20Script-Google-4285F4?logo=google&logoColor=white&style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
 </p>
 
 ---
