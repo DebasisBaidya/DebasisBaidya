@@ -6,7 +6,7 @@
 
 <p align="center">
   <strong>Transforming manual processes into smart, automated systems for over 11 years</strong><br>
-  <i>Currently exploring real-world projects in EDA, ML, DL & NLP</i>
+  <i>Currently working as a Data Science Intern at NextHikes IT Solutions — building real-world projects in EDA, ML, DL & NLP</i>
 </p>
 
 <p align="center">
@@ -37,6 +37,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 4px;" />
   </a>
 </p>
+
 ---
 
 <h2 align="center">🛠️ Tech & Tools</h2>
@@ -64,5 +65,5 @@
 
 <p align="center">
   🙏 Thanks for visiting my GitHub!<br>
-  ⭐ You can say I thrive on solving problems and simplifying the complex — always learning, always building.
+  ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
 </p>
