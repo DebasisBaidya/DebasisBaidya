@@ -1,16 +1,20 @@
-## Hi there 👋
+### 👋 Hi, I'm Debasis Baidya
 
-<!--
-**DebasisBaidya/DebasisBaidya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Automation-Focused MIS Leader | 💻 Data Analyst | 📊 Aspiring Data Scientist
 
-Here are some ideas to get you started:
+With 11+ years of experience in MIS & Data Management, I've transformed time-consuming manual workflows into efficient, automated systems—freeing up 80% of teams' time to focus on strategic growth. I'm currently diving deep into the world of Data Science through real-world projects in EDA, ML, DL & NLP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 My favorite tools: Python | SQL | Power BI | Google Sheets + Apps Script | Streamlit  
+🔍 I love solving problems, building tools, and visualizing actionable insights.
+
+---
+
+### 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/debasisbaidya)
+[![Gmail](https://img.shields.io/badge/Gmail-Mail_me-red?logo=gmail)](mailto:speak2debasis@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?logo=whatsapp)](https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!)
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya)](https://github.com/DebasisBaidya)
+[![GitHub Followers](https://img.shields.io/github/followers/DebasisBaidya?style=social)](https://github.com/DebasisBaidya)
+[![GitHub Stars](https://img.shields.io/github/stars/DebasisBaidya?style=social)](https://github.com/DebasisBaidya?tab=stars)
+
