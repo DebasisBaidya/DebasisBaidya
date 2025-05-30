@@ -30,17 +30,6 @@ With 11+ years of experience in MIS & Data Management, I've transformed time-con
 
 ---
 
-### 📌 Featured Projects
-
-- 📊 [Real Estate Price EDA](https://github.com/DebasisBaidya/MyWorks/tree/b837539ca0564905ee5f71bdb995e1a312ce4822/EDA_Project-3)
-- 🤖 [Mobile Price Prediction](https://github.com/DebasisBaidya/MyWorks/tree/b837539ca0564905ee5f71bdb995e1a312ce4822/Prediction_For_Handsets-Project-4)
-- 📡 [Telecom Analytics + SQL](https://github.com/DebasisBaidya/MyWorks/tree/b837539ca0564905ee5f71bdb995e1a312ce4822/Telecom_UA_Satisfaction_Pred_Project-5)
-- 💊 [Rossmann Pharma Sales Forecasting](https://github.com/DebasisBaidya/MyWorks/tree/f96329ac21ce2ef516f674ed1ef8a27bd5362ece/Rossmann_Pharma-Sales_Prediction-Project_6)
-- 🌪 [Disaster Tweet NLP Classification](https://github.com/DebasisBaidya/MyWorks/tree/c2759d26726d4fbff28fc6c5a15d3d8f829857fe/Disaster-Tweet-NLP_Project-7)
-- 🛒 [Amazon Review Sentiment App](https://github.com/DebasisBaidya/MyWorks/tree/90e7e97d779cd1610a5ccbd0820c92de98f49b8e/Amazon_Reviews_Sentiment_Analysis)
-
----
-
 ### 📬 Connect with Me
 
 <p align="center">
@@ -54,7 +43,7 @@ With 11+ years of experience in MIS & Data Management, I've transformed time-con
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
   </a>
   <a href="https://github.com/DebasisBaidya">
-    <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Follow&style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/DebasisBaidya?tab=stars">
     <img src="https://img.shields.io/github/stars/DebasisBaidya?label=Stars&style=for-the-badge&logo=github" />
