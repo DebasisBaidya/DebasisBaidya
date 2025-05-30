@@ -31,6 +31,9 @@
   </a>
   <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp" />
+    <a href="https://github.com/DebasisBaidya">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 4px;" />
+  </a>
   </a>
   <a href="https://github.com/DebasisBaidya">
     <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=for-the-badge&logo=github" />
@@ -38,11 +41,7 @@
   <a href="https://github.com/DebasisBaidya?tab=stars">
     <img src="https://img.shields.io/github/stars/DebasisBaidya?label=Stars&style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/DebasisBaidya">
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:28px; margin-left: 4px;" />
-  </a>
 </p>
-
 ---
 
 <h2 align="center">🛠️ Tech & Tools</h2>
