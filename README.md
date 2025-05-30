@@ -10,11 +10,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" /> 
-  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Python%20for%20Data%20Science-3776AB?logo=python&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-Automation-34A853?logo=googlesheets&logoColor=white&style=flat-square" /> 
-  <img src="https://img.shields.io/badge/Apps%20Script-Google-4285F4?logo=google&logoColor=white&style=flat-square" /> 
+  <img src="https://img.shields.io/badge/Tableau-Dashboards-005F9E?logo=tableau&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-Automation-34A853?logo=googlesheets&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Apps%20Script-Google-4285F4?logo=google&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PowerPoint-Infographics-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat-square" />
@@ -47,19 +48,6 @@
   <a href="https://github.com/DebasisBaidya?tab=stars">
     <img src="https://img.shields.io/github/stars/DebasisBaidya?label=Stars&style=for-the-badge&logo=github" />
   </a>
-</p>
-
----
-
-<h2 align="center">🛠️ Tech & Tools</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Data_Science-blue?style=for-the-badge&logo=python" />
-  <img src="https://img.shields.io/badge/SQL-Queries-informational?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/Google_Sheets-Automations-green?style=for-the-badge&logo=google-sheets" />
-  <img src="https://img.shields.io/badge/Power_BI-Visuals-yellow?style=for-the-badge&logo=powerbi" />
-  <img src="https://img.shields.io/badge/Tableau-Dashboards-blueviolet?style=for-the-badge&logo=tableau" />
-  <img src="https://img.shields.io/badge/Streamlit-Apps-red?style=for-the-badge&logo=streamlit" />
 </p>
 
 ---
