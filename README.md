@@ -11,8 +11,8 @@
 
 <!-- 🛠️ TOOL BADGES -->
 <p align="center">
-  <a><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" /></a>
-  <a><img src="https://img.shields.io/badge/Data%20Science%20%7C%20Analytics-blue?style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Data_Science_|_Analytics-0366d6?style=for-the-badge" />
   <a><img src="https://img.shields.io/badge/SQL-Queries-4479A1?logo=mysql&logoColor=white&style=flat-square" /></a>
   <a><img src="https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi&logoColor=black&style=flat-square" /></a>
   <a><img src="https://img.shields.io/badge/Tableau-Dashboards-005F9E?logo=tableau&logoColor=white&style=flat-square" /></a>
