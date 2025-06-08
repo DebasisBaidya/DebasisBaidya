@@ -68,19 +68,24 @@
   ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
 </p>
 
-## My GitHub Repositories
+<p align="center">
 
-Here are some of my projects hosted on GitHub:
+## 🚀 My GitHub Projects
 
-1. [GUI Calculator Project 1](https://github.com/DebasisBaidya/GUI-Calculator_Project-1)
-2. [Data Wrangling Project 2](https://github.com/DebasisBaidya/Data-Wrangling_Project-2)
-3. [Exploratory Data Analysis (EDA) Project 3](https://github.com/DebasisBaidya/EDA_Project-3)
-4. [Prediction For Handsets Project 4](https://github.com/DebasisBaidya/Prediction_For_Handsets-Project-4)
-5. [Strategic Business Acquisition Project 5](https://github.com/DebasisBaidya/Strategic-Business-Acquisition_Project-5)
-6. [Sales Forecasting Project 6](https://github.com/DebasisBaidya/Sales_Forecasting_Project-6)
-7. [Disaster Tweet NLP Project 7](https://github.com/DebasisBaidya/Disaster-Tweet-NLP_Project-7)
-8. [Job Recommendation Engine Project 8](https://github.com/DebasisBaidya/job-recommendation-engine-Project-8)
-9. [Amazon Reviews Sentiment NLP](https://github.com/DebasisBaidya/Amazon_Reviews_Sentiment-NLP)
-10. [LLM News Research Tool Project 9](https://github.com/DebasisBaidya/LLM-News-Research-Tool_Project-9)
-11. [MyWorks](https://github.com/DebasisBaidya/MyWorks)
+✨ Check out some of my awesome work on GitHub:
+
+- 🖥️ [GUI Calculator Project 1](https://github.com/DebasisBaidya/GUI-Calculator_Project-1)  
+- 🧹 [Data Wrangling Project 2](https://github.com/DebasisBaidya/Data-Wrangling_Project-2)  
+- 📊 [Exploratory Data Analysis (EDA) Project 3](https://github.com/DebasisBaidya/EDA_Project-3)  
+- 📱 [Prediction For Handsets Project 4](https://github.com/DebasisBaidya/Prediction_For_Handsets-Project-4)  
+- 📈 [Strategic Business Acquisition Project 5](https://github.com/DebasisBaidya/Strategic-Business-Acquisition_Project-5)  
+- 📅 [Sales Forecasting Project 6](https://github.com/DebasisBaidya/Sales_Forecasting_Project-6)  
+- 🌪️ [Disaster Tweet NLP Project 7](https://github.com/DebasisBaidya/Disaster-Tweet-NLP_Project-7)  
+- 💼 [Job Recommendation Engine Project 8](https://github.com/DebasisBaidya/job-recommendation-engine-Project-8)  
+- 🛒 [Amazon Reviews Sentiment NLP](https://github.com/DebasisBaidya/Amazon_Reviews_Sentiment-NLP)  
+- 📰 [LLM News Research Tool Project 9](https://github.com/DebasisBaidya/LLM-News-Research-Tool_Project-9)  
+- 📂 [MyWorks](https://github.com/DebasisBaidya/MyWorks)
+
+</p>
+
 
