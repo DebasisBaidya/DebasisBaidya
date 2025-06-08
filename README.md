@@ -60,13 +60,13 @@
   📚 Post Graduate Program in Data Science, AI & ML (DigiCrome)
 </p>
 
-<p align="center">🌟🌟🌟🌟🌟</p>
-
 <h2 align="center">🚀 My GitHub Projects</h2>
 
 <p align="center">✨ Check out some of my awesome work on GitHub:</p>
 
-<ul align="center" style="list-style:none; padding-left: 0; max-width: 400px; margin-left:auto; margin-right:auto;">
+<div align="center">
+
+<ul style="list-style:none; padding-left: 0; max-width: 400px; text-align: left;">
   <li>🖥️ <a href="https://github.com/DebasisBaidya/GUI-Calculator_Project-1">GUI Calculator Project 1</a></li>
   <li>🧹 <a href="https://github.com/DebasisBaidya/Data-Wrangling_Project-2">Data Wrangling Project 2</a></li>
   <li>📊 <a href="https://github.com/DebasisBaidya/EDA_Project-3">Exploratory Data Analysis (EDA) Project 3</a></li>
@@ -79,3 +79,8 @@
   <li>📰 <a href="https://github.com/DebasisBaidya/LLM-News-Research-Tool_Project-9">LLM News Research Tool Project 9</a></li>
   <li>📂 <a href="https://github.com/DebasisBaidya/MyWorks">MyWorks</a></li>
 </ul>
+
+</div>
+
+<p align="center">🌟🌟🌟🌟🌟</p>
+
