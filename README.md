@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/SQL-Queries-4479A1?logo=mysql&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Power%20BI-Data-yellow?logo=powerbi&logoColor=black&style=flat-square" />
   <img src="https://img.shields.io/badge/Tableau-Dashboards-005F9E?logo=tableau&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Google%20Sheets-Automation-34A853?logo=googlesheets&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Apps%20Script-Google-4285F4?logo=google&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Google%20Sheets-Cloud Auto-Save-34A853?logo=googlesheets&logoColor=white&style=flat-square" />
+  <img src="https://img.shields.io/badge/Apps%20Script-Automation-4285F4?logo=google&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Streamlit-Apps-FF4B4B?logo=streamlit&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/Excel-Advanced-217346?logo=microsoft-excel&logoColor=white&style=flat-square" />
   <img src="https://img.shields.io/badge/PowerPoint-Infographics-B7472A?logo=microsoft-powerpoint&logoColor=white&style=flat-square" />
