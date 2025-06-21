@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Debasis Baidya</h1>
+<h1 align="center">👋 Hi, I'm Debasis Baidya from Kolkata </h1>
 
 <p align="center">
   🚀 Automation-Focused MIS Leader | 💻 Data Analyst | 📊 Aspiring Data Scientist
