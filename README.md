@@ -48,8 +48,8 @@
   <a href="https://github.com/DebasisBaidya?tab=stars">
     <img src="https://img.shields.io/github/stars/DebasisBaidya?affiliations=OWNER&label=Total%20Stars&style=flat&logo=github" />
   </a>
-  <a href="https://linktr.ee/debasisbaidya" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Certifications-View-orange?style=flat&logo=google-drive&logoColor=white" />
+  <a href="https://linktr.ee/debasisbaidya" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/My%20Certifications-View-orange?style=flat&logo=google-drive&logoColor=white" />
   </a>
 </p>
 
