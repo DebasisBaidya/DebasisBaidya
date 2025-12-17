@@ -39,17 +39,17 @@
   <a href="https://api.whatsapp.com/send?phone=918013316086&text=Hi%20Debasis!">
     <img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat&logo=whatsapp&logoColor=white" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DebasisBaidya&label=Profile%20Views&color=blue&style=flat" />
-  <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=flat&logo=github" />
-  <img src="https://img.shields.io/github/stars/DebasisBaidya?affiliations=OWNER&label=Total%20Stars&style=flat&logo=github" />
-</p>
-
-<p align="center">
+  <a href="https://github.com/DebasisBaidya">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DebasisBaidya" style="height:20px; margin-left: 2px;" />
+  </a>
+  <a href="https://github.com/DebasisBaidya">
+    <img src="https://img.shields.io/github/followers/DebasisBaidya?label=Followers&style=flat&logo=github" />
+  </a>
+  <a href="https://github.com/DebasisBaidya?tab=stars">
+    <img src="https://img.shields.io/github/stars/DebasisBaidya?affiliations=OWNER&label=Total%20Stars&style=flat&logo=github" />
+  </a>
   <a href="https://linktr.ee/debasisbaidya" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/My%20Certifications-View-orange?style=flat&logo=google-drive&logoColor=white" />
+      <img src="https://img.shields.io/badge/My%20Certifications-View-orange?style=flat&logo=google-drive&logoColor=white" />
   </a>
   <a href="https://sites.google.com/view/debasisbaidyakolkata" target="_blank" rel="noopener noreferrer" style="margin-left: 8px;">
     <img src="https://img.shields.io/badge/My%20Google%20Site-Visit-blue?style=flat&logo=google-sites&logoColor=white" />
@@ -99,3 +99,6 @@
   🙏 Thanks for visiting my GitHub Profile!<br>
   ⭐ I'm someone who automates to elevate — turning manual chaos into meaningful clarity.
 </p>
+
+
+
